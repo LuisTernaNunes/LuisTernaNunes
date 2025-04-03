@@ -26,6 +26,7 @@ Atualmente, sou professor de desenvolvimento back-end. Busco sempre aprimorar me
 ## 📜 Certificações e Especializações  
 
 📌 **Especialização Java Spring** – *Alura (2025 - Presente)*  
+📌 **Bradesco - Java Cloud Native** – *Dio (2025 - Presente)*  
 
 
 <!--
