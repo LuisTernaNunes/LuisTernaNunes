@@ -1,5 +1,5 @@
 # Luis Fernando Terna Nunes 
-💻 **Programador Back-end**  [LinkedIn](https://www.linkedin.com/in/luis-terna-nunes)  
+💻 **Desenvolvedor Back-end**  [LinkedIn](https://www.linkedin.com/in/luis-terna-nunes)  
 
 | Área                | Tecnologias e Conceitos                          |
 |---------------------|------------------------------------------------|
