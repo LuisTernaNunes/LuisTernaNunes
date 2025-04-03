@@ -1,4 +1,11 @@
-## Hi there 👋
+#Luis Fernando Terna Nunes
+
+
+| Área                | Tecnologias e Conceitos                          |
+|---------------------|------------------------------------------------|
+| **Desenvolvedor Backend** | **Java, Spring Boot, Python, C#**          |
+| **Especialização**  | **Microserviços, APIs REST, SQL, PostgreSQL**  |
+| **Boas Práticas**   | **Arquitetura MVC, Clean Code**                |
 
 <!--
 **LuisTernaNunes/LuisTernaNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
