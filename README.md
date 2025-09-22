@@ -2,7 +2,7 @@
 💻 **Desenvolvedor Back-end**  [LinkedIn](https://www.linkedin.com/in/luis-terna-nunes)  
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,spring,docker,postgres,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,spring,js,nodejs,postgres,mysql&theme=light)](https://skillicons.dev)
 
 ## 🚀 Sobre Mim  
 
